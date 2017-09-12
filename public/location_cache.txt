@@ -1,1 +1,0 @@
-a:2:{i:1001359382;s:22:"colo01.im.yahooapis.jp";i:1001642848;s:22:"colo01.im.yahooapis.jp";}
