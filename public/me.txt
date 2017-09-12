@@ -1,0 +1,6 @@
+サンプル
+ydn-api-php-samples-master
+
+ドキュメント
+https://github.com/yahoojp-marketing/ydn-api-documents/tree/master/docs/ja
+
